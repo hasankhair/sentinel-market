@@ -227,6 +227,10 @@ sentinelmarket/
 - [BNB Agent SDK quickstart (TypeScript)](https://docs.bnbchain.org/developer-kit/bnbagent-sdk/quickstart-typescript/)
 - [BNB Chain testnet faucet](https://www.bnbchain.org/en/testnet-faucet)
 
+## Deployed Link
+
+- https://sentinel-market.hasankhair77.workers.dev
+
 ## License
 
 Add your license here (for example MIT) before publishing.
