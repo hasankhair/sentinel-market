@@ -1,4 +1,4 @@
-# 🛡️ SentinelMarket
+# 🛡️ SentinelMarket - BNB Builder Hack
 
 **Agents that hire, pay and judge other agents.**
 
